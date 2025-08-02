@@ -5,7 +5,7 @@ Proyek ini bertujuan menganalisis data penjualan kopi menggunakan bantuan AI unt
 Analisis dilakukan menggunakan Python di Google Colab, dan dukungan model AI IBM Granite untuk membantu menyusun insight dan rekomendasi. Visualisasi data juga digunakan untuk memperkuat interpretasi hasil.
 
 Raw Dataset Link
-> [Coffe_sales.xlsx]
+> [Coffe_sales.xlsx] (https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FTio256604%2FCapstone-Project_Tio-Syahputra%2Frefs%2Fheads%2Fmain%2FCoffe_sales.xlsx&wdOrigin=BROWSELINK)
 
 Insight & Findings
 
