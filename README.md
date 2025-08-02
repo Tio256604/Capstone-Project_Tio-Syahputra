@@ -28,6 +28,7 @@ Rekomendasi Strategis
 - Bangun momentum awal tahun (Januari) dengan kampanye “New Year, New Brew”.
 
 AI Support Explanation
+
 Dalam proyek ini, AI berperan sebagai asisten analitik yang digunakan melalui model **IBM Granite 3.3-8B Instruct** via Replicate API.
 Fungsi AI:
 - Insight Generation: AI digunakan untuk menyusun insight dari data penjualan kopi secara otomatis.
